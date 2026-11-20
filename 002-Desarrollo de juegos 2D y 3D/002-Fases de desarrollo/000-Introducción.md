@@ -1,2 +1,0 @@
-# Fases de desarrollo
-

@@ -1,2 +1,0 @@
-# Contexto gráfico. Imágenes
-

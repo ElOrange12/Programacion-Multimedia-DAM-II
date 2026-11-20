@@ -1,2 +1,0 @@
-# Fuentes de audio. Propiedades
-

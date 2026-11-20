@@ -1,2 +1,0 @@
-# Emuladores. Configuraciones
-

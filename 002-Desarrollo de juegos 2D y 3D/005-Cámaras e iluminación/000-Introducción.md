@@ -1,2 +1,0 @@
-# Cámaras e iluminación
-

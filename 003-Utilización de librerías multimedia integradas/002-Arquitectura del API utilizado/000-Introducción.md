@@ -1,2 +1,0 @@
-# Arquitectura del API utilizado
-

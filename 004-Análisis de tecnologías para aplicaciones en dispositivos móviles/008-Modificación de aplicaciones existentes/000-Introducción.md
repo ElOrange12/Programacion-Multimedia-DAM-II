@@ -1,2 +1,0 @@
-# Modificación de aplicaciones existentes
-

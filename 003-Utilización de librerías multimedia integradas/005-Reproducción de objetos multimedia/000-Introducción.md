@@ -1,2 +1,0 @@
-# Reproducción de objetos multimedia
-

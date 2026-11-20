@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ListaCompra</string>
+    <string name="screen_title">Shopping list</string>
+
+    <!-- Añadir productos -->
+    <string name="product_name_placeholder">Product name</string>
+    <string name="add_button">Add</string>
+    <string name="error_empty_name">Enter a product name</string>
+
+    <!-- Contador -->
+    <plurals name="pending_products">
+        <item quantity="one">%d product pending</item>
+        <item quantity="other">%d products pending</item>
+    </plurals>
+
+    <!-- Lista vacía -->
+    <string name="empty_list_title">No products yet</string>
+    <string name="empty_list_hint">Add your first product using the field above.</string>
+    <string name="empty_list_icon_description">Empty shopping cart</string>
+
+    <!-- Estados de un producto -->
+    <string name="status_pending">Pending</string>
+    <string name="status_purchased">Purchased</string>
+
+    <!-- Acciones sobre un producto (%1$s es el nombre del producto) -->
+    <string name="mark_as_purchased">Mark %1$s as purchased</string>
+    <string name="mark_as_pending">Mark %1$s as pending</string>
+    <string name="delete_product">Delete %1$s</string>
+</resources>
